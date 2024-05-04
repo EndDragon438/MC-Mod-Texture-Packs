@@ -1,2 +1,3 @@
-# MC-Mod-Texture-Packs
-All my MC Mod and texture Packs
+# Archive
+spot mostly for filehosting/sharing
+buncha minecraft modpacks, texture packs, and some other stuff
